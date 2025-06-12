@@ -1,0 +1,18 @@
+.pinkbk {
+  background-color: #ffa8b5;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.number3 {
+  font-size: 24px;
+}
+
+#num-two {
+  color: blue;
+  font-size: 36px;
+}
+
+#num-four {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
