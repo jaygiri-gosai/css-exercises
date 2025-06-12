@@ -1,0 +1,13 @@
+.btny,
+.btnn {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.btny {
+  color: #fff;
+  background-color: #000;
+}
+.btnn {
+  background-color: yellow;
+}
